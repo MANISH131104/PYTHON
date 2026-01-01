@@ -4,7 +4,7 @@ marks = {
     "Manish": 100,
     
     "Keshav":90,
-    "Raja":85
+    "Raja":90
 }
 
 print(marks,type(marks))
